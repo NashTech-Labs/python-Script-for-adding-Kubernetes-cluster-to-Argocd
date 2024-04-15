@@ -18,6 +18,7 @@ This Python script automates the process of adding a Kubernetes cluster to ArgoC
  - Replace `<cluster name>` with the name of your Kubernetes cluster.
  - Replace `<path of kubeconfig file>` with the path to your kubeconfig file.
 4. Run the script using Python:
+   <python3 Argocd-deployment.py>
 
 
 ## Notes
